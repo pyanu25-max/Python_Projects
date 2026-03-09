@@ -1,2 +1,2 @@
-# These are examples of python excerise and projects
-This is a python examples and sample practice projects
+# These are examples of python excerises and projects
+These are python examples and sample practice projects
